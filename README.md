@@ -12,9 +12,9 @@ Thời gian trung bình để giao hàng là 56.73 phút
 4. Khi trời có tuyết, sương mù, hay mưa cũng làm tăng thời gian giao hàng
 
 #Internal - những ảnh hưởng từ bên trong
-5. Khi lái xe càng có nhiều kinh nghiệm, người giao hàng càng giao đến khách hàng nhanh chóng
-6. Thời gian chuẩn bị càng lâu thì thời gian giao hàng cũng càng lâu
-7. Ở biểu đồ phương tiện giao thông ta có thể thấy được xe ô tô giao hàng lâu hơn so với 2 phương tiện còn lại là xe đạp và scooter
+1. Khi lái xe càng có nhiều kinh nghiệm, người giao hàng càng giao đến khách hàng nhanh chóng
+2. Thời gian chuẩn bị càng lâu thì thời gian giao hàng cũng càng lâu
+3. Ở biểu đồ phương tiện giao thông ta có thể thấy được xe ô tô giao hàng lâu hơn so với 2 phương tiện còn lại là xe đạp và scooter
 (scooter chạy nhanh hơn so với xe đạp thì hợp lí nhưng xe ô tô giao hàng chậm hơn so với 2 phương tiện còn lại thì bất hợp lí)
-8. Tại biểu đồ tiếp theo ta có thể thấy được người lái xe ô tô đa số sẽ phải giao hàng ở quãng đường xa hơn so với hai phương tiện còn lại
+4. Tại biểu đồ tiếp theo ta có thể thấy được người lái xe ô tô đa số sẽ phải giao hàng ở quãng đường xa hơn so với hai phương tiện còn lại
 
